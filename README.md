@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @alexccastelo
+- 👋 Hey, I’m @alexccastelo, form Brazil 🇧🇷
 - 👀 I’m into Python, PHP, MySQL, HTML, CSS, and VBA/Excel
 - 🌱 I’m really into history (all kinds lol), a big fan of science in general, and a total tech-learning junkie 😎
 <!---
