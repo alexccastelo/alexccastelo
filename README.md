@@ -1,7 +1,3 @@
-- 👋 Hey, I’m @alexccastelo, form Brazil 🇧🇷
-- 👀 I’m into Python, PHP, MySQL, HTML, CSS, and VBA/Excel
-- 🌱 I’m really into history (all kinds lol), a big fan of science in general, and a total tech-learning junkie 😎
-<!---
-alexccastelo/alexccastelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm @alexccastelo, from Brazil 🇧🇷
+👀 First of all, I'm a self-taught person, eager for knowledge and a back-end developer, "dabbling" in front-end; I develop solutions using Python, PHP, MySQL, HTML, CSS, among other things...
+🌱 I'm passionate about random knowledge (lol): history (of all kinds, lol), aviation, a big fan of science in general and addicted to learning about technology 😎
