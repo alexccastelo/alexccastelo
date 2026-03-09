@@ -1,3 +1,3 @@
-👋 Hi, I'm @alexccastelo, from Brazil 🇧🇷
-👀 First of all, I'm a self-taught person, eager for knowledge and a back-end developer, "dabbling" in front-end; I develop solutions using Python, PHP, MySQL, HTML, CSS, among other things...
-🌱 I'm passionate about random knowledge (lol): history (of all kinds, lol), aviation, a big fan of science in general and addicted to learning about technology 😎
+- 👋 Hi, I'm @alexccastelo, from Brazil 🇧🇷
+- 👀 First of all, I'm a self-taught person, eager for knowledge and a back-end developer, "dabbling" in front-end; I develop solutions using Python, PHP, MySQL, HTML, CSS, among other things...
+- 🌱 I'm passionate about random knowledge (lol): history (of all kinds, lol), aviation, a big fan of science in general and addicted to learning about technology 😎
